@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "csv-writer": "^1.6.0",
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7",
+        "unirest": "^0.6.0",
+        "xlsx": "^0.18.5"
+    },
+    "name": "web-scraper",
+    "version": "1.0.0",
+    "main": "Blog.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node Blog.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
