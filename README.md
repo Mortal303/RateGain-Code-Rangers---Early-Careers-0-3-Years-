@@ -30,10 +30,23 @@ data comprehensively. Your application should extract the following details:
 preferred format for storage is either Excel or CSV. Ensure that the extracted data is
 accurately structured for easy analysis.
 
-# Solution
+# Solution -
 
 
 
+![Screenshot (53)](https://github.com/Mortal303/RateGain-Code-Rangers---Early-Careers-0-3-Years-/assets/71438976/8fa5d86f-d648-436a-865c-dea0d76dad81)
+
+
+
+![Screenshot (54)](https://github.com/Mortal303/RateGain-Code-Rangers---Early-Careers-0-3-Years-/assets/71438976/82964ef5-028f-4b59-9626-f72f53d4c727)
+
+
+
+
+![Screenshot (75)](https://github.com/Mortal303/RateGain-Code-Rangers---Early-Careers-0-3-Years-/assets/71438976/55ced755-a0ff-40ec-8835-24f7b6f24591)
+
+
+![Screenshot (76)](https://github.com/Mortal303/RateGain-Code-Rangers---Early-Careers-0-3-Years-/assets/71438976/a14ea834-be08-4927-886d-a8978b857e77)
 
 
 
